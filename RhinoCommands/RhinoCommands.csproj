@@ -56,6 +56,7 @@
     <Compile Include="SlopeCommand.cs" />
     <Compile Include="RhinoCommandsSlope.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SlopeMax.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="EmbeddedResources\plugin-utility.ico" />
